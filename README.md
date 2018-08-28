@@ -14,6 +14,6 @@ chmod 777 *.sh
 *** extras
  You can type your city name see the weather terminal.
  
- you can search here #200+ cities 
+### you can search here 200+ cities 
  
  install and enjoy !!!!!!!!
