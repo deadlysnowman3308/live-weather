@@ -3,3 +3,15 @@ Current weather and forecasts in your city and also find weather report worldwid
 Always Have Access to WeatherBug at Your Fingertips, It's Free.
 
 ## installation ##
+
+git clone https://github.com/hackingvila/live-weather.git
+
+cd live-weather
+cd weather
+chmod 777 *.sh
+./weather.sh
+
+*** extras
+ You can type your city name see the weather terminal.
+ 
+ install and enjoy !!!!!!!!
