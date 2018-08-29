@@ -6,18 +6,6 @@ function main_menu()
     do
 resize -s 90 150
 clear
-#Colors vars
-green_color="\033[1;32m"
-green_color_title="\033[0;32m"
-red_color="\033[1;31m"
-red_color_slim="\033[0;031m"
-blue_color="\033[1;34m"
-cyan_color="\033[1;36m"
-brown_color="\033[0;33m"
-yellow_color="\033[1;33m"
-pink_color="\033[1;35m"
-white_color="\e[1;97m"
-normal_color="\e[1;0m"
 echo -e "\033[1;32m   █     █░▓█████ ▄▄▄     ▄▄▄█████▓ ██░ ██ ▓█████  ██▀███  "
 echo -e "\033[0;32m  ▓█░ █ ░█░▓█   ▀▒████▄   ▓  ██▒ ▓▒▓██░ ██▒▓█   ▀ ▓██ ▒ ██▒"
 echo -e "\033[1;31m  ▒█░ █ ░█ ▒███  ▒██  ▀█▄ ▒ ▓██░ ▒░▒██▀▀██░▒███   ▓██ ░▄█ ▒"
