@@ -58,9 +58,11 @@ read -p "Select>: " option
 	6) cd manual
 	   chmod 777 *.sh
 	   ./manual.sh
+	 ;;
 	7) read -p "Press any key To exit"
 	   exit
 	   exit
+	   ;;
 esac
     done
 }
