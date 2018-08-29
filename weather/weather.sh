@@ -32,6 +32,9 @@ printf "\n"
 printf "\n"
 printf "             \e[1;92m[\e[0m\e[1;77m6\e[0m\e[1;92m]\e[0m\e[1;93m\033[3;33m TYPE CITY NAME (manual) \e[0m "
 printf "\n" 
+printf "\n"
+printf "             \e[1;92m[\e[0m\e[1;77m7\e[0m\e[1;92m]\e[0m\e[1;93m \033[1;31m EXIT \e[0m "
+printf "\n"
 
 read -p "Select>: " option
         echo
@@ -55,6 +58,9 @@ read -p "Select>: " option
 	6) cd manual
 	   chmod 777 *.sh
 	   ./manual.sh
+	7) read -p "Press any key To exit"
+	   exit
+	   exit
 esac
     done
 }
