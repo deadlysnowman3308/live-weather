@@ -43,19 +43,24 @@ read -p "Select>: " option
         echo
         
         case "$option" in  
-	1) curl wttr.in/kolkata
+	1) clear
+	curl wttr.in/kolkata
 	read -p "Press enter to continue"
 	;;
-	2) curl wttr.in/delhi
+	2) clear
+	curl wttr.in/delhi
 	read -p "Press enter to continue"
 	;;
-	3) curl wttr.in/pune
+	3) clear
+	curl wttr.in/pune
 	read -p "Press enter to continue"
 	;;
-	4) curl wttr.in/nepal
+	4) clear
+	curl wttr.in/nepal
 	read -p "Press enter to continue"
 	;;
-	5) curl wttr.in/kerala
+	5) clear
+	curl wttr.in/kerala
 	read -p "Press enter to continue"
 	;;
 	6) cd manual
