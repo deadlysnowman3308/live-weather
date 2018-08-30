@@ -1,5 +1,8 @@
 #!/bin/bash
 clear
+cd manual
+chmod 777 *.sh
+cd ..
 function main_menu()
 {
     while :
