@@ -1,8 +1,6 @@
 
 # live-weather
-Current weather and forecasts in your city and also find weather report worldwide in terminal.
-Always Have Access to WeatherBug at Your Fingertips, It's Free.
-
+Current weather and forecasts in your city and also find weather report worldwide in the terminal. Always Have Access to WeatherBug at Your Fingertips, It's Free.
 ## installation ##
 
 git clone https://github.com/hackingvila/live-weather.git
