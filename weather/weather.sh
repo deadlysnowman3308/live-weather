@@ -1,4 +1,7 @@
 #!/bin/bash
+# script by > ANIKET DINDA
+# Website > https://hackingvila.wordpress.com
+
 clear
 cd manual
 chmod 777 *.sh
